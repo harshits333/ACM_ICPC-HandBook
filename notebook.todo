@@ -1,0 +1,93 @@
+Notebook Todo list:
+List of codes to put in the notebook
+
+
+
+
+    Topics To be added:
+        ✔ Fast Exponentiation @done (16-11-29 05:40)
+        ✔ Sieve @done (16-11-29 13:35)
+        ✔ Max flow  @done (16-11-29 05:42)
+        ✔ Dijkstra @done (16-11-29 05:42)
+        ✔ Segment Tree @done (16-11-29 16:17)
+        ✔ Lazy Propogation @done (16-11-29 18:56)
+        ✔ KMP @done (16-11-29 05:39)
+        ✔ Suffix Array @done (16-11-29 05:42)
+        ✔ FFT @done (16-11-29 05:42)
+        ✔ BIT @done (16-11-29 05:42)
+        ✔ Rabin Miller Primality check @done (16-11-29 05:41)
+        ✔ Convex hull @done (16-11-29 05:42)
+        ✔ LIS (nlogn) @done (16-11-29 05:37)
+        ✔ SCC  @done (16-11-29 05:42)
+        ✔ Union find  @done (16-11-29 05:42)
+        ✔ BFS, DFS  @done (16-11-29 20:43)
+        ✔ Topological Sort @done (16-11-29 05:39)
+        ✔ Binary Search @done (16-11-30 12:21)
+        ✔ Hashing @done (16-12-01 15:41)
+        ✔ Kruskal's (C++) @done (16-11-29 18:56)
+        ✔ Bellman Ford @done (16-11-29 05:45)
+        ✔ Min Cut @done (16-11-29 05:43)
+        ✔ Least common Ancestor @done (16-11-29 05:45)
+        ✔ Tries @done (16-11-30 13:16)
+        ✔ Prim's Algorithm @done (16-11-30 12:21)
+        ✔ Floyd Warshall @done (16-11-30 11:46)
+        ✔ IO Tools @done (16-11-29 05:38)
+        ✔ LCS @done (16-11-29 05:41)
+        ✔ Miscellaneous Geometry @done (16-11-29 05:47)
+        ✔ Eulerian Path @done (16-11-30 16:00)
+        ✔ Articulation Point @done (16-12-01 16:06)
+        ✔ Aho-Corasick (seen at IIUM notebook) @done (16-11-30 11:24)
+        ☐ SMP
+        ✔ Treaps @done (16-11-30 14:50)
+        ✔ Gauss Jordan @done (16-11-30 15:12)
+        ✔ Euclid's & Fermat's Theorems @done (16-11-30 19:37)
+        ✔ Playing with dates @done (16-11-3 019:37)
+        ✔ Constraint Satisfaction Problem @done (16-12-01 08:57)
+        ☐ Big Integers Java
+        ☐ Big Integers Python
+        ✔ BIT 2D @done (16-12-01 09:25)
+        ✔ Mobius Function @done (16-12-01 19:48)
+        ✔ Mo's Algorithm @done (16-12-01 20:04)
+        ☐ Theory
+            ✔ game theory @done (16-12-01 13:44)
+            ☐ Sets, maps, iterators etc 
+            ✔ Number Theory @done (16-12-01 13:44)
+                ✔ Extended GCD @done (16-12-01 10:05)
+                ✔ Euler's totient function @done (16-12-01 10:05)
+                ✔ Mobius inversion @done (16-12-01 10:06)
+                ✔ Pythagorean triplets @done (16-12-01 10:06)
+                ✔ Linear Diophantine  @done (16-12-01 10:08)
+            ✔ Combinatorics @done (16-12-01 13:44)
+                ✔ Chinese Remainder Theorem @done (16-12-01 10:09)
+                ✔ Burnside Lemma @done (16-12-01 10:04)
+                ✔ Catalan @done (16-12-01 10:03)
+                ✔ Derangements @done (16-12-01 10:03)
+                ✔ Stiring numbers @done (16-12-01 10:04)
+                ✔ Bell numbers @done (16-12-01 10:04)
+
+            ☐ STL (Stirng Stream,sort, lower bound, and all functions)
+            ☐ Bit manipulation
+            ☐ List of primes and other related numbers
+
+    Topics not very sure:
+        ☐ Tree traversal( in order, pre order and post order)
+        ✔ Closest pair of points @done (16-12-01 16:58)
+        ✘ TSP         @cancelled (16-12-01 16:58)
+        ✔ RMQ @done (16-12-01 08:49)
+        ✔ Bipartite matchig (Non-bipartote, max bipartite, etc) @done (16-12-01 15:37)
+        ☐ Geometry problems (https://github.com/emiraga/cat-us-trophy/tree/master/notebook/src/geom)
+        ✔ Triangulation @done (16-11-30 19:37)
+        ✔ Simplex Algorithm @done (16-11-30 15:51)
+        ☐ Knapsack
+        ✔ isPrime function @done (16-12-01 08:57)
+        ✔ Edmond's Algorithm( Directed MST, IIUM notebook blossom.cpp ) @done (16-12-01 08:33)
+        ✔ Z-Algorithm @done (    16-12-01 13:45)
+        ✘ Voronoi Diagrams @cancelled (16-12-01 16:58)
+        ✘ Reduced Row Echlon Form  @cancelled (16-12-01 13:45)
+        ✘ Rabin Karp or RK (Hashing of string) @cancelled (16-12-01 13:45)
+    Reference list:  
+         ☐ for some pseudocodes and explanations, https://github.com/emiraga/cat-us-trophy/blob/master/notebook/notebook.pdf
+         ☐ stanford university notebook http://home.iitk.ac.in/~sshekh/codes/notebook.html (2011- 2012)
+         ☐ Mit notebook http://web.mit.edu/~ecprice/acm/notebook.pdfhttp://web.mit.edu/~ecprice/acm/notebook.pdf
+         ☐ STanford University (2015-2016) https://github.com/jaehyunp/stanfordacm/blob/master/notebook.pdf
+         ☐ quite extensive for list of algorithms and explanations (use google translate of chrome) http://e-maxx.ru/algo/
